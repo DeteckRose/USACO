@@ -1,2 +1,3 @@
-# USACO
-USACO Problem Codes
+# usaco
+
+usaco problem codes
